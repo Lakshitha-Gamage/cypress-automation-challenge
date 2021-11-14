@@ -1,0 +1,16 @@
+{
+  "name": "automation-challenge",
+  "version": "1.0.0",
+  "description": "Automation Challenge - Lakshitha Gamage",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "Lakshitha Gamage",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.0.0",
+    "cypress": "^8.7.0"
+  }
+}
